@@ -1,0 +1,10 @@
+--Comentario en sql
+
+/*
+Este
+es
+un 
+comentario
+en 
+varias
+lineas*/

@@ -1,0 +1,1 @@
+SELECT name, init_date AS 'Fechas de inicio elecciones' FROM users WHERE age BETWEEN 18 AND 30;
